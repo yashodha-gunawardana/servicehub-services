@@ -1,0 +1,9 @@
+[submodule "services/user-service"]
+	path = services/user-service
+	url = https://github.com/yashodha-gunawardana/user-service.git
+[submodule "services/request-service"]
+	path = services/request-service
+	url = https://github.com/yashodha-gunawardana/request-service.git
+[submodule "services/provider-service"]
+	path = services/provider-service
+	url = https://github.com/yashodha-gunawardana/provider-service.git
