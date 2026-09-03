@@ -222,8 +222,6 @@ git submodule update --remote --merge
 ./mvnw test
 ```
 
-> ⚠️ Do not commit passwords or other sensitive information to GitHub.
-
 ---
 
 ## 👤 User Service
@@ -269,12 +267,6 @@ user-service/
 ├── pom.xml
 └── README.md
 ```
-
-### Status
-Java 25 ✅ | Spring Boot ✅ | MySQL ✅ | Spring Data JPA ✅ | Eureka Client ✅ | Config Client ✅ | Validation ✅ | Password Security ✅ | GitHub ✅ | GCP Deployment ⏳
-
-Repo: https://github.com/yashodha-gunawardana/user-service
-
 ---
 
 ## 📋 Request Service
@@ -309,12 +301,6 @@ request-service/
 ├── pom.xml
 └── README.md
 ```
-
-### Status
-Java 25 ✅ | Spring Boot ✅ | MongoDB ✅ | Spring Data MongoDB ✅ | Eureka Client ✅ | Config Client ✅ | GitHub ✅ | GCP Deployment ⏳
-
-Repo: https://github.com/yashodha-gunawardana/request-service
-
 ---
 
 ## 🧰 Provider Service
@@ -348,12 +334,6 @@ provider-service/
 ├── pom.xml
 └── README.md
 ```
-
-### Status
-Java 25 ✅ | Spring Boot ✅ | MySQL ✅ | Eureka Client ✅ | Config Client ✅ | GitHub ✅ | GCP Deployment ⏳
-
-Repo: https://github.com/yashodha-gunawardana/provider-service
-
 ---
 
 ## 🔗 Service Registration
